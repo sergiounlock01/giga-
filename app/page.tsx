@@ -10,7 +10,7 @@ import { MessageCircle, Wifi, Tv, Building2, Users, Clock, Shield, Zap, Phone, M
 export default function GigaPlusWebsite() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
-  const whatsappUrl = "https://wa.me/5511921067609?text=Atendimento."
+  const whatsappUrl = "https://wa.me/551151942695?text=Ol%C3%A1%20Giga%2B"
 
   const planos = [
     {
